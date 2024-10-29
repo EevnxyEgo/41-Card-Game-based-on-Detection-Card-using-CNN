@@ -1,0 +1,10 @@
+NotUse/
+game/AppendMoveCards.py
+game/iwantchange.py
+game/__pycache__
+CNN/Dataset/Training
+CNN/DatasetH5PY
+
+.idea
+.venv
+__pycache__
